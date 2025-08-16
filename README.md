@@ -1,7 +1,7 @@
 # alifiroozi-Rap-1
 first action in github
 Welcome to my first public repository! 🎉  
-This is a simple Python project that shows a **random programming quote** each time you run it.
+This is a simple Python project that shows a **random programming quote** each time you run it
 
 ---
 

@@ -15,4 +15,4 @@ Here's your random programming quote:
 "First, solve the problem. Then, write the code."
 
 git add .
-git commit -m "Update project with new changes"
+git commit -m "Update project with new changes".

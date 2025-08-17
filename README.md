@@ -6,7 +6,7 @@ This is a simple Python project that shows a **random programming quote** each t
 ---
 
 ## 📸 Preview
-```bash
+
 $ python main.py
 Welcome to My GitHub Project!
 Today is: 2025-08-15 22:30:00

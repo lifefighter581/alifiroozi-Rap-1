@@ -36,4 +36,3 @@ git push origin main.
 
 career...
 doing
-woman

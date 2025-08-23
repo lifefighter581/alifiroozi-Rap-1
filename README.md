@@ -36,5 +36,4 @@ git push origin main.
 
 career...
 doing
-baby
 boy

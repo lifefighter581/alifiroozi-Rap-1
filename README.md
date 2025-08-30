@@ -37,5 +37,4 @@ git push origin main.
 career...
 doing
 lovely
-.
 humanity

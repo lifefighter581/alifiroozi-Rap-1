@@ -40,3 +40,4 @@ lovely
 humanity
 peace
 empathy
+love

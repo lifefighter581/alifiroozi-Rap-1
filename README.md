@@ -37,7 +37,7 @@ git push origin main.
 career...
 doing
 
-humanity
+
 peace
 empathy
 love

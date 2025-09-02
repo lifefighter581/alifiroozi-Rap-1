@@ -41,4 +41,4 @@ doing
 peace
 empathy
 love
-life is...
+life is... end?

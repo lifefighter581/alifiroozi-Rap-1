@@ -40,7 +40,7 @@ doing
 
 peace
 empathy
-love
+
 life is... end?
 god
 care

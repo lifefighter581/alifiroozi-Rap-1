@@ -45,3 +45,4 @@ life is... end?
 god
 care
 crazy
+bad sector

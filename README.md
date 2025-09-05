@@ -41,7 +41,6 @@ doing
 peace
 empathy
 
-life is... end?
 
 care
 crazy

@@ -43,7 +43,7 @@ empathy
 
 
 care
-crazy
+
 bad sector
 information
 data

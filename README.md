@@ -42,7 +42,6 @@ peace
 empathy
 
 
-care
 
 bad sector
 information

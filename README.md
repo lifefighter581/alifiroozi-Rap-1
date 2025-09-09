@@ -36,13 +36,6 @@ git push origin main.
 
 career...
 doing
-
-
-peace
-empathy
-
-
-
 bad sector
 information
 data

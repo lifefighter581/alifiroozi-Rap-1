@@ -36,7 +36,6 @@ git push origin main.
 
 career...
 
-bad sector
 information
 data
 files

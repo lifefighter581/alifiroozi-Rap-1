@@ -35,7 +35,7 @@ fi
 git push origin main.
 
 career...
-doing
+
 bad sector
 information
 data

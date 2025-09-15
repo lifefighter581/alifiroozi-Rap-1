@@ -34,11 +34,8 @@ fi
 # Step 3: Push to GitHub
 git push origin main.
 
-information
+
 data
-
-
-
 blockchain
 timeing
 free

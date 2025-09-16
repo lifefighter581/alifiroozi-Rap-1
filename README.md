@@ -40,3 +40,4 @@ blockchain
 timeing
 free
 final
+crypto

@@ -38,6 +38,6 @@ git push origin main.
 data
 blockchain
 
-free
+
 final
 crypto

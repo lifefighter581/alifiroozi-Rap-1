@@ -35,7 +35,7 @@ fi
 git push origin main.
 
 
-data
+
 blockchain
 final
 crypto

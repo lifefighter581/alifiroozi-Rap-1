@@ -35,7 +35,7 @@ fi
 git push origin main.
 
 
-layer1
+
 blockchain
 crypto
 web3

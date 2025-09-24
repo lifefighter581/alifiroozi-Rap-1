@@ -39,6 +39,5 @@ git push origin main.
 
 web3
 layer2
-airdrop
 free
 bug

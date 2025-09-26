@@ -41,3 +41,4 @@ git push origin main.
 free
 bug
 exchange
+binance

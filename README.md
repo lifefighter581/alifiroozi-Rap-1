@@ -37,7 +37,7 @@ git push origin main.
 
 
 
-tether
+
 free
 bug
 exchange

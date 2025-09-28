@@ -38,5 +38,5 @@ git push origin main.
 
 bug
 exchange
-binance
+
 money

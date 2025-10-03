@@ -37,7 +37,6 @@ git push origin main.
 
 
 
-curency
 
 server
 gift

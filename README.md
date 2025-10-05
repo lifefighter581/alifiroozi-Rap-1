@@ -38,7 +38,7 @@ git push origin main.
 
 
 
-server
+
 withdraw
 coin
 wallet

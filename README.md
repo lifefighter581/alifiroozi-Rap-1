@@ -42,3 +42,4 @@ git push origin main.
 withdraw
 coin
 wallet
+income

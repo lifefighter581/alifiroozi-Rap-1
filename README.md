@@ -43,5 +43,5 @@ git push origin main.
 security
 income
 input
-mine
+
 

@@ -41,7 +41,7 @@ git push origin main.
 
 
 
-framework
+
 rating
 seed phrase
 deny

@@ -37,7 +37,7 @@ git push origin main.
 
 
 
-rating
+
 seed phrase
 deny
 focus

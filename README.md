@@ -38,7 +38,6 @@ git push origin main.
 
 
 
-seed phrase
 deny
 focus
 long

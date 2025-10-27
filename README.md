@@ -42,6 +42,6 @@ git push origin main.
 
 
 coding
-trending
+
 incentive
 

@@ -39,7 +39,7 @@ git push origin main.
 
 
 prize
-incentive
+
 decoding
 linkdin
 

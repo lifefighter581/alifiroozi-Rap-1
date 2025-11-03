@@ -38,7 +38,7 @@ git push origin main.
 
 
 
-prize
+
 
 kite AI
 cancel

@@ -40,6 +40,6 @@ git push origin main.
 
 
 
-random
+
 java script
 silicon

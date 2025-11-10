@@ -43,3 +43,4 @@ git push origin main.
 NFT
 sale
 november
+bulish

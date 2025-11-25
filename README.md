@@ -42,5 +42,5 @@ git push origin main.
 creative
 indoor
 classification
-language
+
 dumping

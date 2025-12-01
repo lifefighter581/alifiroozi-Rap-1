@@ -39,7 +39,7 @@ git push origin main.
 
 
 
-creative
+
 optical
 circle
 gitcoin

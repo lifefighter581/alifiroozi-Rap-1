@@ -42,6 +42,6 @@ git push origin main.
 
 
 circle
-gitcoin
+
 final
 people

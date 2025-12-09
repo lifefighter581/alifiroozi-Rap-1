@@ -45,4 +45,4 @@ circle
 action
 final
 people
-
+minority

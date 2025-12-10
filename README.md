@@ -44,5 +44,5 @@ git push origin main.
 points
 action
 final
-people
+
 minority

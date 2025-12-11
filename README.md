@@ -45,4 +45,4 @@ points
 action
 final
 congress
-minority
+

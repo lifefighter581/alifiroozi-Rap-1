@@ -43,6 +43,6 @@ git push origin main.
 
 points
 action
-final
+
 congress
 morning

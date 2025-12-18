@@ -44,6 +44,6 @@ git push origin main.
 
 alchohol
 medium
-congress
+
 issue
 hotel

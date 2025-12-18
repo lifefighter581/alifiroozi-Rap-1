@@ -41,7 +41,7 @@ git push origin main.
 
 
 
-points
+
 alchohol
 medium
 congress

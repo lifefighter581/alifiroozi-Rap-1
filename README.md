@@ -43,7 +43,7 @@ git push origin main.
 
 
 alchohol
-medium
+
 
 issue
 night

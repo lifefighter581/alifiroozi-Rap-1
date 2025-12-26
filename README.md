@@ -40,7 +40,7 @@ git push origin main.
 
 
 
-sanctions
+
 economic
 rights
 program

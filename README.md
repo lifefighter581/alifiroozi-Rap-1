@@ -41,7 +41,7 @@ git push origin main.
 
 
 
-economic
+
 rights
 program
 lunch

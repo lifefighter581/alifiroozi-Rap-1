@@ -47,3 +47,4 @@ program
 lunch
 issue
 sale
+picture

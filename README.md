@@ -42,7 +42,7 @@ git push origin main.
 
 
 
-rights
+
 program
 lunch
 issue

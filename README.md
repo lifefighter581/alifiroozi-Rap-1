@@ -48,3 +48,4 @@ lunch
 foreign
 sale
 rington
+prince

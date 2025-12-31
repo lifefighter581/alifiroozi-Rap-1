@@ -49,3 +49,4 @@ foreign
 sale
 rington
 prince
+lottery

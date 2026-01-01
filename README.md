@@ -47,6 +47,6 @@ program
 
 foreign
 sale
-
+send
 prince
 lottery

@@ -45,7 +45,6 @@ git push origin main.
 
 program
 
-foreign
 sale
 send
 prince

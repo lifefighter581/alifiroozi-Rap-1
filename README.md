@@ -45,7 +45,7 @@ git push origin main.
 
 wanted
 republic
-sale
+
 send
 prince
 

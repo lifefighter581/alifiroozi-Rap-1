@@ -43,7 +43,7 @@ git push origin main.
 
 
 
-wanted
+
 republic
 Money
 send

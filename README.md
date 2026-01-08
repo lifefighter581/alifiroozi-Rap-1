@@ -44,7 +44,7 @@ git push origin main.
 
 
 
-republic
+
 Money
 send
 choice

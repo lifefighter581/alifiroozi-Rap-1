@@ -49,7 +49,7 @@ Money
 send
 choice
 market
-student
+
 
 
 

@@ -47,7 +47,7 @@ git push origin main.
 
 Money
 
-choice
+
 market
 protest
 leader

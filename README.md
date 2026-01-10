@@ -46,7 +46,7 @@ git push origin main.
 
 
 Money
-send
+
 choice
 market
 protest

@@ -50,6 +50,6 @@ git push origin main.
 glad
 market
 
-leader
+
 forces
 navy

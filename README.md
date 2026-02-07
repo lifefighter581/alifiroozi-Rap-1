@@ -51,7 +51,7 @@ git push origin main.
 
 roots
 internet
-life
+
 navy
 crisis
 information

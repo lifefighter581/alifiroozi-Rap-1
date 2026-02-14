@@ -53,7 +53,7 @@ roots
 relationship
 international
 difficult
-crisis
+
 information
 various
 machine

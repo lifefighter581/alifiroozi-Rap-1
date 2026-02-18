@@ -57,3 +57,4 @@ locker
 information
 lighting
 machine
+teacher

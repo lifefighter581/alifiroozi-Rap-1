@@ -57,5 +57,5 @@ locker
 information
 lighting
 machine
-teacher
+
 prediction

@@ -51,7 +51,7 @@ git push origin main.
 
 
 relationship
-international
+
 politics
 locker
 information

@@ -56,6 +56,6 @@ politics
 locker
 information
 lighting
-machine
+
 
 prediction

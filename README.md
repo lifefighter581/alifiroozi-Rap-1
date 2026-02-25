@@ -54,7 +54,7 @@ git push origin main.
 negotiation
 file
 portion
-information
+
 president
 anthem
 married

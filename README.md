@@ -55,7 +55,7 @@ negotiation
 
 
 
-president
+
 anthem
 senator
 prediction

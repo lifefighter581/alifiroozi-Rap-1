@@ -60,3 +60,4 @@ patriot
 contract
 prediction
 real state
+close

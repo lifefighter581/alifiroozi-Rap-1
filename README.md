@@ -43,6 +43,5 @@ git push origin main.
 patriot
 contract
 problem
-real state
 close
 tv

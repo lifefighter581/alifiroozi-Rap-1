@@ -46,3 +46,4 @@ problem
 football
 tv
 radio
+minstry

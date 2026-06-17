@@ -47,3 +47,4 @@ football
 tv
 radio
 minstry
+money

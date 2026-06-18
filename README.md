@@ -42,7 +42,7 @@ git push origin main.
 
 
 contract
-problem
+
 football
 tv
 radio

@@ -44,7 +44,7 @@ git push origin main.
 contract
 
 football
-tv
+
 radio
 minstry
 money

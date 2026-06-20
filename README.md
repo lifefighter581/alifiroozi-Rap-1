@@ -45,6 +45,6 @@ contract
 
 football
 
-radio
+
 minstry
 money

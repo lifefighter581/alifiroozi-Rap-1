@@ -49,4 +49,3 @@ git push origin main.
 sister
 rest
 human
-world cup

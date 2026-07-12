@@ -46,6 +46,6 @@ git push origin main.
 
 
 discipline
-
+program
 rest
 human

@@ -44,7 +44,7 @@ git push origin main.
 
 
 unite
-school
+
 content
 program
 rest

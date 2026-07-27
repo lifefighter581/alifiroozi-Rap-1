@@ -46,6 +46,6 @@ git push origin main.
 
 help
 exam
-
+reset
 rest
 

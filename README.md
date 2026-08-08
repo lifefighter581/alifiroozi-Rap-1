@@ -46,6 +46,6 @@ git push origin main.
 
 freeze1
 standard
-reset
+
 miami
 versus

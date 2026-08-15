@@ -47,6 +47,5 @@ git push origin main.
 freeze1
 standard
 
-Deep house
 music
 bahama

@@ -45,7 +45,7 @@ git push origin main.
 
 
 freeze1
-standard
+
 sound
 music
 bahama

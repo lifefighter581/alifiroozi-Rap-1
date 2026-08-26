@@ -46,6 +46,6 @@ git push origin main.
 
 tragedy
 black
-
+white
 sugar
 animal

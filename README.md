@@ -48,4 +48,4 @@ regret
 black
 white
 fall down
-
+love and hate

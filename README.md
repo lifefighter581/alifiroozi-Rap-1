@@ -45,7 +45,7 @@ git push origin main.
 
 regret
 
-black
+
 white
 fall down
 love and hate

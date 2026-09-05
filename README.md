@@ -48,4 +48,3 @@ republic
 approach
 white
 fall down
-love and hate

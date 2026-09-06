@@ -47,4 +47,3 @@ regret
 republic
 approach
 white
-fall down

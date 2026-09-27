@@ -46,6 +46,5 @@ git push origin main.
 memory
 present
 approach
-next week
 stop
 celebration

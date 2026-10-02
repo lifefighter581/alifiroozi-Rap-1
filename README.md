@@ -45,6 +45,6 @@ document
 Atleths
 operation
 present
-approach
+
 stop
 celebration

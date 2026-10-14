@@ -45,7 +45,6 @@ git push origin main.
 
 operation
 collaboration
-silver
 month
 celebration
 

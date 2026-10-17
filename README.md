@@ -44,7 +44,7 @@ git push origin main.
 
 
 operation
-collaboration
+
 month
 celebration
 northern

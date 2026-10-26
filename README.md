@@ -45,7 +45,7 @@ git push origin main.
 
 
 think
-fingers
+
 celebration
 political
 bondary

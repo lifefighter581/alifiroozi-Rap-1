@@ -46,6 +46,6 @@ git push origin main.
 
 think
 destroy
-celebration
+
 political
 bondary

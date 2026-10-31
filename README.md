@@ -48,5 +48,5 @@ think
 destroy
 reality
 political
-bondary
+
 stop

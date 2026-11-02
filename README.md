@@ -44,7 +44,7 @@ git push origin main.
 
 
 
-think
+
 destroy
 reality
 political

@@ -50,3 +50,4 @@ reality
 political
 tornado
 stop
+election

@@ -45,7 +45,7 @@ git push origin main.
 
 
 
-destroy
+
 reality
 political
 tornado

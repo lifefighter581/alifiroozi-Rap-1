@@ -46,7 +46,7 @@ git push origin main.
 
 problem
 process
-reality
+
 political
 
 stop

@@ -47,7 +47,7 @@ git push origin main.
 problem
 process
 
-political
+
 cloth
 stop
 election

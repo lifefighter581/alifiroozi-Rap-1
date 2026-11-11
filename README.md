@@ -48,6 +48,6 @@ problem
 process
 
 
-cloth
+
 stop
 election

@@ -47,7 +47,7 @@ git push origin main.
 problem
 keep up
 assessment
-president
+
 seven
 
 
